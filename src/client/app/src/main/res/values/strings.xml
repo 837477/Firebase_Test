@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FbTest</string>
+    <string name="firebase_notification_channel_id">TEST_TEST_TEST</string>
+</resources>
